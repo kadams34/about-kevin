@@ -1,0 +1,17 @@
+body {
+	font-family: Arial, sans-serif;
+	background: greenyellow;
+}
+
+img {
+	width: 200px;
+	height: 325px;
+}
+
+h2 {
+	font-family: "Comic Sans MS", sans-serif;
+	font-weight: bold;
+	color: red;
+	position: fixed;
+}
+
